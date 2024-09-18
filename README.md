@@ -1,3 +1,6 @@
+![Header](https://github.com/user-attachments/assets/6baea73b-5bef-4cdb-a34e-c2db32b5ec9e)
+
+
 # 💫 Sobre mi:
 🔭 Actualmente estoy trabajando en BCare, una aplicación web que tiene como objetivo ofrecer una solución tecnológica que proporcione compañía y conversación a través de la inteligencia artificial, y así combatir la soledad en las personas mayores en la sociedad. La aplicación permite a las personas usuarias, a través de un motor conversacional, hablar sobre lo que ellas necesiten o sobre temas de interés que se recogen para cada una de ellas. Para ello, cada usuaria podrá registrarse, iniciar sesión y gestionar sus preferencias de conversación. Esta será fluida y coherente, y utilizará una velocidad lenta. Soy responsable tanto del frontend (React, JavaScript) como del backend (Python, Django), así como de las pruebas y la gestión de proyectos utilizando la metodología Agile.<br><br>
 🌱 Estoy aprendiendo desarrollo de backend con Django y Python como parte de mi bootcamp de fullstack, así como la utilización de base de datos empleando PostgreSQL. Me estoy centrando en crear API robustas y en entender la lógica que hay detrás de los frameworks.<br><br>
